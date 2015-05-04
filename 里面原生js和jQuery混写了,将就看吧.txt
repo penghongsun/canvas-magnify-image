@@ -1,0 +1,2 @@
+里面原生js和jQuery混写了,将就看吧^.^
+请使用firefox或者chrome打开
